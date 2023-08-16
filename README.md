@@ -1,5 +1,5 @@
 # Termux-setup
-
+```
 pkg update
 pkg upgrade
 pip2 install mechanize
@@ -13,3 +13,5 @@ pkg install git
 git clone https://github.com/BAIZID-171/Termux-setup
 cd Termux-setup
 bash SETUP.sh
+
+```
